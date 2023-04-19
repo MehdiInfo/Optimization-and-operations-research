@@ -1,0 +1,7 @@
+nVariables 2
+nContraintes 2
+min
++ 1 x1 + 1 x2
+
++ 3 x1 + 1 x2 >= 4
+- 7 x1 + 1 x2 >= -7

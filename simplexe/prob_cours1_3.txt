@@ -1,0 +1,8 @@
+nVariables 3
+nContraintes 3
+max
++ 3 x1 + 2 x2 + 4 x3
+
++ 1 x1 + 1 x2 + 2 x3 <= 4
++ 2 x1 + 0 x2 + 3 x3 <= 5
++ 2 x1 + 1 x2 + 3 x3 <= 7
